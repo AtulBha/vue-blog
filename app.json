@@ -1,7 +1,7 @@
 {
-  "name": "Vue Blog",
-  "description": "A Vue Blog app using Cosmic JS",
+  "name": "AB Tech Studio",
+  "description": "Atul Bhardwaj Technical Studio",
   "repository": "https://github.com/cosmicjs/vue-blog-cosmicjs",
   "logo": "https://cosmicjs.com/images/logo.svg",
-  "keywords": ["vue", "blog"]
+  "keywords": ["Tech", "Studio"]
 }
