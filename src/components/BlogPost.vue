@@ -16,8 +16,8 @@
       <section class="post__body rte" v-html="content"></section>
 
       <footer class="post__footer">
-        <vue-disqus v-if="commentsReady" shortname="ab-tech-studio"
-          :key="post" :identifier="post" :url="`https://abtechstudio.netlify.app/read/${post}`"/>
+        <vue-disqus v-if="commentsReady" shortname="abtechstudio"
+          :key="post" :identifier="post" :url="`https://abtechstudio.disqus.com/${post}`"/>
       </footer>
     </article>
   </transition>
